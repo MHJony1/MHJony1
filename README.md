@@ -1,3 +1,14 @@
+## Hi there 👋
+- 🔭 I’m currently working on Web Development Project
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on Web Development Project
+- 🤔 I’m looking for help with Web Development
+- 💬 Ask me about Web Development
+- 📫 How to reach me: Facebook-Mahmudul Hasan Jony
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I Love Coding
+
+- About me:
 # 👋 Hi, I'm Mahmudul Hasan Jony
 
 🚀 A passionate **MERN Stack Developer** focused on building modern, scalable, and user-centric web applications.
